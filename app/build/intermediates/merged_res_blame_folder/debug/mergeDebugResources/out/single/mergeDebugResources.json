@@ -1,0 +1,454 @@
+[
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_background_dk.png.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/background_dk.png"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_activity_view_pro_list.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/activity_view_pro_list.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_activity_thank_you.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/activity_thank_you.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_banner04.jpg.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/banner04.jpg"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_banner_02.png.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/banner_02.png"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_baseline_playlist_add_check_24.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/baseline_playlist_add_check_24.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_bogoc.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/bogoc.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_activity_thanh_toan.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/activity_thanh_toan.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_expandablelist_view.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/expandablelist_view.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_layoutitem.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/layoutitem.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_baseline_category_24.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/baseline_category_24.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_banner_01.png.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/banner_01.png"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_color_circle.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/color_circle.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/xml_backup_rules.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_baseline_edit_24.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/baseline_edit_24.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_banner03.jpg.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/banner03.jpg"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_fragment_log_out.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/fragment_log_out.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_baseline_manage_accounts_24.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/baseline_manage_accounts_24.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_back_arrow.png.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/back_arrow.png"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_activity_thongtin.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/activity_thongtin.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_activity_add_voucher.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/activity_add_voucher.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_fragment_d_s_s_p.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/fragment_d_s_s_p.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_baseline_fingerprint.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/baseline_fingerprint.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_fragment_l_s_d_h.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/fragment_l_s_d_h.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_meo3.png.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/meo3.png"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_layout_cate.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/layout_cate.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_banner02.jpg.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/banner02.jpg"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_logo_lam.png.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/logo_lam.png"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.duannhom10.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_lamdep.jpg.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/lamdep.jpg"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_baseline_vpn_key_24.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/baseline_vpn_key_24.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_activity_product.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/activity_product.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.duannhom10.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_background.png.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/background.png"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_rectangle_123.png.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/rectangle_123.png"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_fragment_home.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_bogoc3.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/bogoc3.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_baseline_delete_24.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/baseline_delete_24.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_spinner.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/spinner.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_baseline_supervisor_account_24.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/baseline_supervisor_account_24.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.duannhom10.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_product_diaglog.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/product_diaglog.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_hinh_admin.png.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/hinh_admin.png"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_baseline_settings_24.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/baseline_settings_24.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_activity_register.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_baseline_arrow_back_24_white.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/baseline_arrow_back_24_white.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_dong_sanpham_yeuthich.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/dong_sanpham_yeuthich.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_side_nav_bar.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_baseline_exit_to_app_24.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/baseline_exit_to_app_24.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.duannhom10.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_dong_sanpham_giohang.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/dong_sanpham_giohang.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_baseline_arrow_circle_left_24.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/baseline_arrow_circle_left_24.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_features.png.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/features.png"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_baseline_auto_awesome_motion_24.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/baseline_auto_awesome_motion_24.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_fragment_voucher.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/fragment_voucher.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_banner_03.png.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/banner_03.png"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.duannhom10.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_fragment_info.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/fragment_info.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_meo1.png.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/meo1.png"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_baseline_email_24.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/baseline_email_24.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_bogoc2.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/bogoc2.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_user_dialog.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/user_dialog.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_thanh_toan_item.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/thanh_toan_item.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_avatar_dialog.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/avatar_dialog.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_img_2.png.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/img_2.png"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_baseline_home_24.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_activity_voucher_list.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/activity_voucher_list.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.duannhom10.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_voucher.png.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/voucher.png"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_baseline_account_circle_24.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_activity_admin.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/activity_admin.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_trai_tim.png.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/trai_tim.png"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.duannhom10.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/menu_menu_admin.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/menu/menu_admin.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_fragment_setting.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/fragment_setting.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_top_background.png.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/top_background.png"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/menu_mnbottom.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/menu/mnbottom.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.duannhom10.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_activity_gio_hang.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/activity_gio_hang.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_baseline_shopping_cart_24.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/baseline_shopping_cart_24.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_meo2.png.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/meo2.png"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_item_banner.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/item_banner.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_backgroud_dn.png.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/backgroud_dn.png"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_activity_login.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/menu_menugiohang.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/menu/menugiohang.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_layoutuseritem.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/layoutuseritem.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.duannhom10.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_heart.png.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/heart.png"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_baseline_phone_24.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/baseline_phone_24.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_activity_search_results.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/activity_search_results.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_account_user_item.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/account_user_item.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_baseline_info_24.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/baseline_info_24.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_baseline_search_24.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/baseline_search_24.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_voucher_item.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/voucher_item.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_border_background.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/border_background.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_baseline_favorite_24.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/baseline_favorite_24.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_header_menu.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/header_menu.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_activity_admin_user.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/activity_admin_user.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_layoutitem_main.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/layoutitem_main.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_banner01.jpg.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/banner01.jpg"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_user_layout.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/user_layout.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_activity_chi_tiet_san_pham.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/activity_chi_tiet_san_pham.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.duannhom10.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/drawable_edtdesign.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/drawable/edtdesign.xml"
+    },
+    {
+        "merged": "com.example.duannhom10.app-debug-32:/layout_fragment_lsdh_item.xml.flat",
+        "source": "com.example.duannhom10.app-main-34:/layout/fragment_lsdh_item.xml"
+    }
+]
