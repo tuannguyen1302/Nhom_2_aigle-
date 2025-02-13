@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+
+    <TextView
+        android:id="@+id/tvEdit"
+        android:layout_width="267dp"
+        android:layout_height="29dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:text="Thông tin chi tiết"
+        android:textColor="#414F44"
+        android:textSize="24sp" />
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tên người dùng:"
+        android:textColor="@color/black"
+        android:layout_marginTop="30dp"
+        android:textSize="18sp"/>
+    <EditText
+        android:id="@+id/ed_User_Name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tên "
+        android:textSize="14sp"
+        android:layout_marginTop="10dp"
+        android:editable="false"
+        android:focusable="false"
+        android:clickable="false"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mật khẩu:"
+        android:textColor="@color/black"
+        android:layout_marginTop="10dp"
+        android:textSize="18sp"/>
+
+    <EditText
+        android:id="@+id/ed_User_Pass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Mật khẩu"
+        android:textSize="14sp"
+        android:layout_marginTop="10dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email:"
+        android:textColor="@color/black"
+        android:layout_marginTop="10dp"
+        android:textSize="18sp"/>
+
+    <EditText
+        android:id="@+id/ed_User_Email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Email"
+        android:textSize="14sp"
+        android:layout_marginTop="10dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Số điện thoại:"
+        android:textColor="@color/black"
+        android:layout_marginTop="10dp"
+        android:textSize="18sp"/>
+
+    <EditText
+        android:id="@+id/ed_User_Phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Số điện thoại"
+        android:textSize="14sp"
+        android:inputType="phone|number"
+        android:layout_marginTop="10dp"/>
+
+    <ImageView
+        android:id="@+id/ivAvatar1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="16dp"
+        android:layout_gravity="center"
+        android:src="@drawable/ic_launcher_background"/>
+
+    <Button
+        android:id="@+id/btAvatar1"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="Chọn avatar"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        android:backgroundTint="#414F44"/>
+
+</LinearLayout>
