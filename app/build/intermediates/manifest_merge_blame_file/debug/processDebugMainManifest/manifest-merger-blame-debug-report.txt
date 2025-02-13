@@ -1,0 +1,258 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.duannhom10"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:4:5-80
+11-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:4:22-77
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:5:5-81
+12-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:5:22-78
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:6:5-67
+13-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:6:22-64
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:7:5-79
+14-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:7:22-76
+15
+16    <permission
+16-->[androidx.core:core:1.13.0] C:\Users\PC\.gradle\caches\8.9\transforms\9b67c2a778f51a5e9e875416b9e8356c\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+17        android:name="com.example.duannhom10.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+17-->[androidx.core:core:1.13.0] C:\Users\PC\.gradle\caches\8.9\transforms\9b67c2a778f51a5e9e875416b9e8356c\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+18        android:protectionLevel="signature" />
+18-->[androidx.core:core:1.13.0] C:\Users\PC\.gradle\caches\8.9\transforms\9b67c2a778f51a5e9e875416b9e8356c\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+19
+20    <uses-permission android:name="com.example.duannhom10.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+20-->[androidx.core:core:1.13.0] C:\Users\PC\.gradle\caches\8.9\transforms\9b67c2a778f51a5e9e875416b9e8356c\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+20-->[androidx.core:core:1.13.0] C:\Users\PC\.gradle\caches\8.9\transforms\9b67c2a778f51a5e9e875416b9e8356c\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+21
+22    <application
+22-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:9:5-82:19
+23        android:allowBackup="true"
+23-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:10:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.13.0] C:\Users\PC\.gradle\caches\8.9\transforms\9b67c2a778f51a5e9e875416b9e8356c\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+25        android:dataExtractionRules="@xml/data_extraction_rules"
+25-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:11:9-65
+26        android:debuggable="true"
+27        android:extractNativeLibs="false"
+28        android:fullBackupContent="@xml/backup_rules"
+28-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:12:9-54
+29        android:icon="@mipmap/ic_launcher"
+29-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:13:9-43
+30        android:label="@string/app_name"
+30-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:14:9-41
+31        android:roundIcon="@mipmap/ic_launcher_round"
+31-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:15:9-54
+32        android:supportsRtl="true"
+32-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:16:9-35
+33        android:testOnly="true"
+34        android:theme="@style/Theme.DoAn_Sale" >
+34-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:17:9-47
+35        <activity
+35-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:19:9-21:40
+36            android:name="com.example.duannhom10.ui.SearchResults"
+36-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:20:13-45
+37            android:exported="false" />
+37-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:21:13-37
+38        <activity
+38-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:22:9-36:20
+39            android:name="com.example.duannhom10.User.ThanhToanActivity"
+39-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:23:13-51
+40            android:exported="true"
+40-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:24:13-36
+41            android:launchMode="singleTask" >
+41-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:25:13-44
+42            <intent-filter>
+42-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:26:13-35:29
+43                <action android:name="android.intent.action.VIEW" />
+43-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:27:17-69
+43-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:27:25-66
+44
+45                <category android:name="android.intent.category.DEFAULT" />
+45-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:29:17-76
+45-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:29:27-73
+46                <category android:name="android.intent.category.BROWSABLE" />
+46-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:30:17-78
+46-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:30:27-75
+47
+48                <data
+48-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:32:17-34:49
+49                    android:host="app"
+49-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:33:21-39
+50                    android:scheme="demozpdk" />
+50-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:34:21-46
+51            </intent-filter>
+52        </activity>
+53        <activity
+53-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:37:9-39:40
+54            android:name="com.example.duannhom10.Admin.AddVoucherActivity"
+54-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:38:13-53
+55            android:exported="false" />
+55-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:39:13-37
+56        <activity
+56-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:40:9-42:40
+57            android:name="com.example.duannhom10.Admin.VoucherListActivity"
+57-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:41:13-54
+58            android:exported="false" />
+58-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:42:13-37
+59        <activity
+59-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:43:9-45:40
+60            android:name="com.example.duannhom10.ThankYouActivity"
+60-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:44:13-45
+61            android:exported="false" />
+61-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:45:13-37
+62        <activity
+62-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:46:9-48:40
+63            android:name="com.example.duannhom10.DonHangActivity"
+63-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:47:13-44
+64            android:exported="false" />
+64-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:48:13-37
+65        <activity
+65-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:49:9-51:40
+66            android:name="com.example.duannhom10.Product.ChiTietSanPhamActivity"
+66-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:50:13-59
+67            android:exported="false" />
+67-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:51:13-37
+68        <activity
+68-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:52:9-54:40
+69            android:name="com.example.duannhom10.User.GioHangActivity"
+69-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:53:13-49
+70            android:exported="false" />
+70-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:54:13-37
+71        <activity
+71-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:55:9-57:40
+72            android:name="com.example.duannhom10.Product.View_Pro_List_Activity"
+72-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:56:13-59
+73            android:exported="false" />
+73-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:57:13-37
+74        <activity
+74-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:58:9-60:39
+75            android:name="com.example.duannhom10.Admin.Admin_User_Activity"
+75-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:59:13-54
+76            android:exported="true" />
+76-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:60:13-36
+77        <activity
+77-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:61:9-63:40
+78            android:name="com.example.duannhom10.Product.Product_Activity"
+78-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:62:13-53
+79            android:exported="false" />
+79-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:63:13-37
+80        <activity
+80-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:64:9-66:39
+81            android:name="com.example.duannhom10.Admin.AdminActivity"
+81-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:65:13-48
+82            android:exported="true" />
+82-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:66:13-36
+83        <activity
+83-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:67:9-69:39
+84            android:name="com.example.duannhom10.Account.RegisterActivity"
+84-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:68:13-53
+85            android:exported="true" />
+85-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:69:13-36
+86        <activity
+86-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:70:9-72:39
+87            android:name="com.example.duannhom10.Account.LoginActivity"
+87-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:71:13-50
+88            android:exported="true" />
+88-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:72:13-36
+89        <activity
+89-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:73:9-81:20
+90            android:name="com.example.duannhom10.ui.MainActivity"
+90-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:74:13-44
+91            android:exported="true" >
+91-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:75:13-36
+92            <intent-filter>
+92-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:76:13-80:29
+93                <action android:name="android.intent.action.MAIN" />
+93-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:77:17-69
+93-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:77:25-66
+94
+95                <category android:name="android.intent.category.LAUNCHER" />
+95-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:79:17-77
+95-->D:\ducanh\DUAN1-main\DUAN1-main\app\src\main\AndroidManifest.xml:79:27-74
+96            </intent-filter>
+97        </activity>
+98
+99        <provider
+99-->[com.squareup.picasso:picasso:2.71828] C:\Users\PC\.gradle\caches\8.9\transforms\db2eac0b68a49fa4387c3b4f52bf7645\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+100            android:name="com.squareup.picasso.PicassoProvider"
+100-->[com.squareup.picasso:picasso:2.71828] C:\Users\PC\.gradle\caches\8.9\transforms\db2eac0b68a49fa4387c3b4f52bf7645\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
+101            android:authorities="com.example.duannhom10.com.squareup.picasso"
+101-->[com.squareup.picasso:picasso:2.71828] C:\Users\PC\.gradle\caches\8.9\transforms\db2eac0b68a49fa4387c3b4f52bf7645\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
+102            android:exported="false" />
+102-->[com.squareup.picasso:picasso:2.71828] C:\Users\PC\.gradle\caches\8.9\transforms\db2eac0b68a49fa4387c3b4f52bf7645\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
+103        <provider
+103-->[androidx.emoji2:emoji2:1.3.0] C:\Users\PC\.gradle\caches\8.9\transforms\9a7344e1ecde226a7e958f676a52ef69\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+104            android:name="androidx.startup.InitializationProvider"
+104-->[androidx.emoji2:emoji2:1.3.0] C:\Users\PC\.gradle\caches\8.9\transforms\9a7344e1ecde226a7e958f676a52ef69\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+105            android:authorities="com.example.duannhom10.androidx-startup"
+105-->[androidx.emoji2:emoji2:1.3.0] C:\Users\PC\.gradle\caches\8.9\transforms\9a7344e1ecde226a7e958f676a52ef69\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+106            android:exported="false" >
+106-->[androidx.emoji2:emoji2:1.3.0] C:\Users\PC\.gradle\caches\8.9\transforms\9a7344e1ecde226a7e958f676a52ef69\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+107            <meta-data
+107-->[androidx.emoji2:emoji2:1.3.0] C:\Users\PC\.gradle\caches\8.9\transforms\9a7344e1ecde226a7e958f676a52ef69\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+108                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+108-->[androidx.emoji2:emoji2:1.3.0] C:\Users\PC\.gradle\caches\8.9\transforms\9a7344e1ecde226a7e958f676a52ef69\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+109                android:value="androidx.startup" />
+109-->[androidx.emoji2:emoji2:1.3.0] C:\Users\PC\.gradle\caches\8.9\transforms\9a7344e1ecde226a7e958f676a52ef69\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+110            <meta-data
+110-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\PC\.gradle\caches\8.9\transforms\ad6c264d7af25dbf70e4e162590fd87a\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+111                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+111-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\PC\.gradle\caches\8.9\transforms\ad6c264d7af25dbf70e4e162590fd87a\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+112                android:value="androidx.startup" />
+112-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\PC\.gradle\caches\8.9\transforms\ad6c264d7af25dbf70e4e162590fd87a\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+113            <meta-data
+113-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\PC\.gradle\caches\8.9\transforms\98c3af84e5220b6cf33e68e1fd0aff4d\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+114                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+114-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\PC\.gradle\caches\8.9\transforms\98c3af84e5220b6cf33e68e1fd0aff4d\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+115                android:value="androidx.startup" />
+115-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\PC\.gradle\caches\8.9\transforms\98c3af84e5220b6cf33e68e1fd0aff4d\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+116        </provider>
+117
+118        <receiver
+118-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\PC\.gradle\caches\8.9\transforms\98c3af84e5220b6cf33e68e1fd0aff4d\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+119            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+119-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\PC\.gradle\caches\8.9\transforms\98c3af84e5220b6cf33e68e1fd0aff4d\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+120            android:directBootAware="false"
+120-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\PC\.gradle\caches\8.9\transforms\98c3af84e5220b6cf33e68e1fd0aff4d\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+121            android:enabled="true"
+121-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\PC\.gradle\caches\8.9\transforms\98c3af84e5220b6cf33e68e1fd0aff4d\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+122            android:exported="true"
+122-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\PC\.gradle\caches\8.9\transforms\98c3af84e5220b6cf33e68e1fd0aff4d\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+123            android:permission="android.permission.DUMP" >
+123-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\PC\.gradle\caches\8.9\transforms\98c3af84e5220b6cf33e68e1fd0aff4d\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+124            <intent-filter>
+124-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\PC\.gradle\caches\8.9\transforms\98c3af84e5220b6cf33e68e1fd0aff4d\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+125                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+125-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\PC\.gradle\caches\8.9\transforms\98c3af84e5220b6cf33e68e1fd0aff4d\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+125-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\PC\.gradle\caches\8.9\transforms\98c3af84e5220b6cf33e68e1fd0aff4d\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+126            </intent-filter>
+127            <intent-filter>
+127-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\PC\.gradle\caches\8.9\transforms\98c3af84e5220b6cf33e68e1fd0aff4d\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+128                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+128-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\PC\.gradle\caches\8.9\transforms\98c3af84e5220b6cf33e68e1fd0aff4d\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+128-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\PC\.gradle\caches\8.9\transforms\98c3af84e5220b6cf33e68e1fd0aff4d\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+129            </intent-filter>
+130            <intent-filter>
+130-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\PC\.gradle\caches\8.9\transforms\98c3af84e5220b6cf33e68e1fd0aff4d\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+131                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+131-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\PC\.gradle\caches\8.9\transforms\98c3af84e5220b6cf33e68e1fd0aff4d\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+131-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\PC\.gradle\caches\8.9\transforms\98c3af84e5220b6cf33e68e1fd0aff4d\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+132            </intent-filter>
+133            <intent-filter>
+133-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\PC\.gradle\caches\8.9\transforms\98c3af84e5220b6cf33e68e1fd0aff4d\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+134                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+134-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\PC\.gradle\caches\8.9\transforms\98c3af84e5220b6cf33e68e1fd0aff4d\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+134-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\PC\.gradle\caches\8.9\transforms\98c3af84e5220b6cf33e68e1fd0aff4d\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+135            </intent-filter>
+136        </receiver>
+137    </application>
+138
+139</manifest>
